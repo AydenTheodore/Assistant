@@ -1,0 +1,15 @@
+{
+  "name": "foxxys-assistant",
+  "version": "1.0.1",
+  "description": "The good ol' Foxxy, now with Voice commands!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "AydenTFox",
+  "license": "ISC",
+  "dependencies": {
+    "voice-recognition": "^1.0.6"
+  }
+}
